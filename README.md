@@ -13,7 +13,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Hoài Hiếu, a passionate Software Engineer from Vietnam
+  Hi, I'm Hoai Hieu, a passionate Software Engineer from Vietnam
   <br>
   <br>
   💻 Year 3 Software Engineering Student | Backend Developer
