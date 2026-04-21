@@ -7,16 +7,16 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/hoai-hieu-nguyen-21h05/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/ImanuBae" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
-  <code><a href="mailto:imanutttt@gmail.com" title="Email"><img width="22" src="images/gmail.svg"> Gmail</a></code>
+  <code><a href="https://www.linkedin.com/in/hoai-hieu-nguyen-21h05/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="https://github.com/ImanuBae" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
+  <code><a href="mailto:imanutttt@gmail.com" title="Email"><img width="22" src="https://img.icons8.com/color/48/gmail-new.png"> Gmail</a></code>
 </h5>
 <br>
 <p align="center">
   Hi, I'm Hoài Hiếu, a passionate Software Engineer from Vietnam
   <br>
   <br>
-  💻 Year 3 Software Engineer | Full-Stack Developer
+  💻 Year 3 Software Engineering Student | Backend Developer
   <br>
   🚀 Specializing in Backend Development with Express.js & Node.js
   <br>
@@ -37,21 +37,21 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="TypeScript" height="25" src="images/typescript.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
-  <code><img title="Express.js" height="25" src="images/express.png"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Docker" height="25" src="images/docker.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+  <code><img title="TypeScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+  <code><img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
+  <code><img title="Node.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+  <code><img title="Express.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
+  <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+  <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+  <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+  <code><img title="MongoDB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+  <code><img title="Docker" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+  <code><img title="npm" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></code>
 </p>
 <hr>
 
@@ -83,7 +83,7 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/ImanuBae/FakeNewsNet" title="FakeNewsNet"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ImanuBae&repo=FakeNewsNet&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/ImanuBae/AI-agent-marketting" title="AI Agent Marketing"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ImanuBae&repo=AI-agent-marketting&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ImanuBae/Ai-Agent-Marketing" title="AI Agent Marketing"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ImanuBae&repo=Ai-Agent-Marketing&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 
